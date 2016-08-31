@@ -6,6 +6,6 @@ Requirements
 * When user sign_ups, email notification send to user with confimation_link
 * Once user click and confirm that link, welcome email sent to user with product features
 * Admin should have interface to manage users
-*
+* * 
 
 
